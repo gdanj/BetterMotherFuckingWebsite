@@ -1,0 +1,20 @@
+body
+{
+	border-top: 15px solid white;
+	border-left: 120px solid white;
+    border-right: 120px solid white;
+    font-family:Times New Roman, Arial, Arial Black, Comic Sans MS;
+    font-size: 1.4em;
+    opacity: 0.7;
+    line-height: 150%;
+}
+
+footer
+{
+	border-top: 1px solid black;
+}
+
+.bor
+{
+	border-left: 50px solid white;
+}
